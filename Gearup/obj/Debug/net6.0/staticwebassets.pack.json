@@ -1,0 +1,917 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Gearup.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Gearup.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\css\\img\\loading.gif"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\css\\img\\video-play.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\css\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\css\\img\\youtube-play.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\lightgallery.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\nice-select.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\vendor\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\vendor\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\vendor\\fontawesome-stars.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\fontawesome-stars.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\css\\vendor\\ion-fonts.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\ion-fonts.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\lgd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\lgd41d.eot"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\lgd641.eot",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.eot"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\lgd641.svg",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.svg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\lgd641.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.ttf"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\fonts\\lgd641.woff",
+      "PackagePath": "staticwebassets\\fonts\\lgd641.woff"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\about-us\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\about-us\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us\\team\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\about-us\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us\\team\\2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\about-us\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us\\team\\3.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\about-us\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us\\team\\4.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\1-3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-3.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\1-4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-4.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\1-5.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-5.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\1-6.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-6.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-3.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\2-4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-4.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\2-5.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-5.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\2-6.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-6.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\3-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\3-2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\banner\\3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\3-3.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\admin.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\admin.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\large-size\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\large-size\\2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\large-size\\3.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\large-size\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\large-size\\4.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\large-size\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\large-size\\5.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\large-size\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\large-size\\6.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\medium-size\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\medium-size\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\medium-size\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\3.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\medium-size\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\4.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\medium-size\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\5.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\medium-size\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\6.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\blog\\user.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\user.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\brand\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\brand\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\brand\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\3.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\brand\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\4.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\brand\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\5.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\brand\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\6.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\brand\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\7.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\breadcrumb\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\breadcrumb\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\featured-categories\\1.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\1.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\featured-categories\\2.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\2.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\featured-categories\\3.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\3.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\featured-categories\\4.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\4.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\featured-categories\\5.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\5.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\featured-categories\\6.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\6.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\footer\\newsletter\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\footer\\newsletter\\bg-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\footer\\payment\\1.png",
+      "PackagePath": "staticwebassets\\images\\footer\\payment\\1.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\menu\\icon\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\icon\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\menu\\icon\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\icon\\2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\menu\\logo\\1.png",
+      "PackagePath": "staticwebassets\\images\\menu\\logo\\1.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\menu\\logo\\2.png",
+      "PackagePath": "staticwebassets\\images\\menu\\logo\\2.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\menu\\logo\\3.png",
+      "PackagePath": "staticwebassets\\images\\menu\\logo\\3.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\newsletters\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\newsletters\\bg-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\large-size\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\10.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\3.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\large-size\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\4.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\large-size\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\5.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\large-size\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\6.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\large-size\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\7.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\large-size\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\8.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\large-size\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\9.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\2-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\2-2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\3-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\3-2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\4-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\4-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\4-2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\5-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\5-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\5-2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\6-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\6-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\6-2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\7-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\7-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\7-2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\medium-size\\8-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\8-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\small-size\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\small-size\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\small-size\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\3.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\small-size\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\4.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\small-size\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\5.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\product\\small-size\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\6.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\shop\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\6.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\testimonial\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\bg-1.jpg"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\testimonial\\user\\1.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\user\\1.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\testimonial\\user\\2.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\user\\2.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\images\\testimonial\\user\\3.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\user\\3.png"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\jquery.barrating.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.barrating.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.counterup.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.nice-select.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\jquery.sticky-sidebar.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.sticky-sidebar.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\lightgallery.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\lightgallery.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\scroll-top.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\scroll-top.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\slick.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\theia-sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\theia-sticky-sidebar.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\plugins\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\js\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Mahid\\6th semester\\Web Eng\\premid project\\backup\\Gearup\\Gearup\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Gearup.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Gearup.props",
+      "PackagePath": "build\\Gearup.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Gearup.props",
+      "PackagePath": "buildMultiTargeting\\Gearup.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Gearup.props",
+      "PackagePath": "buildTransitive\\Gearup.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
